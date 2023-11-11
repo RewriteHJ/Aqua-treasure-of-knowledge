@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib body_window_cut_02.mtl
+g body_window_cut_02_default1
+v -0.326133 -0.504229 0.000000
+v 0.292748 -0.504229 0.000000
+v -0.326133 0.532867 0.000000
+v 0.292748 0.532867 0.000000
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+s off
+g body_window_cut_02_body_window_cut_02_window_frame_02_cut_pPlane3 body_window_cut_02_group1 body_window_cut_02_group2 body_window_cut_02_polySurface1
+usemtl initialShadingGroup
+f 1/1/1 2/2/2 4/3/3 3/4/4

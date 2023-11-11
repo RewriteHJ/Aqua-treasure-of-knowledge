@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib body_door_cut_03.mtl
+g default
+v -0.373210 -1.442460 0.000000
+v 0.411100 -1.442460 0.000000
+v -0.373210 0.635730 0.000000
+v 0.411100 0.635730 0.000000
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+s off
+g doorway_02_cut_pPlane5
+usemtl doorway_02_cut_initialShadingGroup
+f 1/1/1 2/2/2 4/3/3 3/4/4
